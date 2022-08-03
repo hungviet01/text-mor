@@ -9,9 +9,11 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-	"I",
-	"Love",
-	"you"
+	"Anh",
+	"Cũng",
+	"Muốn",
+	"Đi",
+	"Lặn -..-"
 ];
 
 // Controls the speed of morphing.
