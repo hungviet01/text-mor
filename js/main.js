@@ -9,8 +9,8 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-	"Game",
-	"Đê"
+	"I'm here",
+	"I'm here"
 ];
 
 // Controls the speed of morphing.
